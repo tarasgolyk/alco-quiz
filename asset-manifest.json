@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/alco-quiz/static/css/main.cfb0e00c.chunk.css",
+    "main.js": "/alco-quiz/static/js/main.106ddd95.chunk.js",
+    "main.js.map": "/alco-quiz/static/js/main.106ddd95.chunk.js.map",
+    "runtime-main.js": "/alco-quiz/static/js/runtime-main.68ecfd87.js",
+    "runtime-main.js.map": "/alco-quiz/static/js/runtime-main.68ecfd87.js.map",
+    "static/js/2.65161ad0.chunk.js": "/alco-quiz/static/js/2.65161ad0.chunk.js",
+    "static/js/2.65161ad0.chunk.js.map": "/alco-quiz/static/js/2.65161ad0.chunk.js.map",
+    "index.html": "/alco-quiz/index.html",
+    "precache-manifest.f3e7223185429aa31ee8c2bdb6b8d17f.js": "/alco-quiz/precache-manifest.f3e7223185429aa31ee8c2bdb6b8d17f.js",
+    "service-worker.js": "/alco-quiz/service-worker.js",
+    "static/css/main.cfb0e00c.chunk.css.map": "/alco-quiz/static/css/main.cfb0e00c.chunk.css.map",
+    "static/js/2.65161ad0.chunk.js.LICENSE.txt": "/alco-quiz/static/js/2.65161ad0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68ecfd87.js",
+    "static/js/2.65161ad0.chunk.js",
+    "static/css/main.cfb0e00c.chunk.css",
+    "static/js/main.106ddd95.chunk.js"
+  ]
+}
