@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b8e5eaf26ed33da24bdd4a8e02155db",
+    "revision": "41fb604af54ce082a3df50e3397c2045",
     "url": "/alco-quiz/index.html"
   },
   {
-    "revision": "32e26aa3178469f6a013",
+    "revision": "c69b67c12b60a9b23846",
     "url": "/alco-quiz/static/css/main.cfb0e00c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/alco-quiz/static/js/2.65161ad0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "32e26aa3178469f6a013",
-    "url": "/alco-quiz/static/js/main.95367777.chunk.js"
+    "revision": "c69b67c12b60a9b23846",
+    "url": "/alco-quiz/static/js/main.c9ffbc30.chunk.js"
   },
   {
     "revision": "4c50a79e6c530a2bb4d6",
