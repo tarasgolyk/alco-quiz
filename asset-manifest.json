@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/alco-quiz/static/css/main.cfb0e00c.chunk.css",
-    "main.js": "/alco-quiz/static/js/main.a5e6d844.chunk.js",
-    "main.js.map": "/alco-quiz/static/js/main.a5e6d844.chunk.js.map",
+    "main.js": "/alco-quiz/static/js/main.95367777.chunk.js",
+    "main.js.map": "/alco-quiz/static/js/main.95367777.chunk.js.map",
     "runtime-main.js": "/alco-quiz/static/js/runtime-main.68ecfd87.js",
     "runtime-main.js.map": "/alco-quiz/static/js/runtime-main.68ecfd87.js.map",
     "static/js/2.65161ad0.chunk.js": "/alco-quiz/static/js/2.65161ad0.chunk.js",
     "static/js/2.65161ad0.chunk.js.map": "/alco-quiz/static/js/2.65161ad0.chunk.js.map",
     "index.html": "/alco-quiz/index.html",
-    "precache-manifest.25a6fee7b104a4ab05df3b28bd076396.js": "/alco-quiz/precache-manifest.25a6fee7b104a4ab05df3b28bd076396.js",
+    "precache-manifest.47d99cd87ac2b8e143085cf8ac74cc66.js": "/alco-quiz/precache-manifest.47d99cd87ac2b8e143085cf8ac74cc66.js",
     "service-worker.js": "/alco-quiz/service-worker.js",
     "static/css/main.cfb0e00c.chunk.css.map": "/alco-quiz/static/css/main.cfb0e00c.chunk.css.map",
     "static/js/2.65161ad0.chunk.js.LICENSE.txt": "/alco-quiz/static/js/2.65161ad0.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.68ecfd87.js",
     "static/js/2.65161ad0.chunk.js",
     "static/css/main.cfb0e00c.chunk.css",
-    "static/js/main.a5e6d844.chunk.js"
+    "static/js/main.95367777.chunk.js"
   ]
 }
