@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/alco-quiz/static/css/main.cfb0e00c.chunk.css",
-    "main.js": "/alco-quiz/static/js/main.c9ffbc30.chunk.js",
-    "main.js.map": "/alco-quiz/static/js/main.c9ffbc30.chunk.js.map",
+    "main.css": "/alco-quiz/static/css/main.1ff6d103.chunk.css",
+    "main.js": "/alco-quiz/static/js/main.83ab58fd.chunk.js",
+    "main.js.map": "/alco-quiz/static/js/main.83ab58fd.chunk.js.map",
     "runtime-main.js": "/alco-quiz/static/js/runtime-main.68ecfd87.js",
     "runtime-main.js.map": "/alco-quiz/static/js/runtime-main.68ecfd87.js.map",
-    "static/js/2.65161ad0.chunk.js": "/alco-quiz/static/js/2.65161ad0.chunk.js",
-    "static/js/2.65161ad0.chunk.js.map": "/alco-quiz/static/js/2.65161ad0.chunk.js.map",
+    "static/js/2.183bc173.chunk.js": "/alco-quiz/static/js/2.183bc173.chunk.js",
+    "static/js/2.183bc173.chunk.js.map": "/alco-quiz/static/js/2.183bc173.chunk.js.map",
     "index.html": "/alco-quiz/index.html",
-    "precache-manifest.5c0dcafc904611a5de46081c2c767a41.js": "/alco-quiz/precache-manifest.5c0dcafc904611a5de46081c2c767a41.js",
+    "precache-manifest.49708894ee3cfdc7f14527f56b146f66.js": "/alco-quiz/precache-manifest.49708894ee3cfdc7f14527f56b146f66.js",
     "service-worker.js": "/alco-quiz/service-worker.js",
-    "static/css/main.cfb0e00c.chunk.css.map": "/alco-quiz/static/css/main.cfb0e00c.chunk.css.map",
-    "static/js/2.65161ad0.chunk.js.LICENSE.txt": "/alco-quiz/static/js/2.65161ad0.chunk.js.LICENSE.txt"
+    "static/css/main.1ff6d103.chunk.css.map": "/alco-quiz/static/css/main.1ff6d103.chunk.css.map",
+    "static/js/2.183bc173.chunk.js.LICENSE.txt": "/alco-quiz/static/js/2.183bc173.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.68ecfd87.js",
-    "static/js/2.65161ad0.chunk.js",
-    "static/css/main.cfb0e00c.chunk.css",
-    "static/js/main.c9ffbc30.chunk.js"
+    "static/js/2.183bc173.chunk.js",
+    "static/css/main.1ff6d103.chunk.css",
+    "static/js/main.83ab58fd.chunk.js"
   ]
 }
